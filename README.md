@@ -1,2 +1,2 @@
 # Bastion-Host-Project
-This Repository contains my hands-on snapshots of bastion host process
+This repository contains my hands-on snapshots of Bastion host process
